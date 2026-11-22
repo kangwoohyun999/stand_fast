@@ -2,7 +2,7 @@
 
 > 그 소리가 들리면, 문을 열어도 된다.
 
-![표지](Chapter01/images/00_표지.jpg)
+![표지](Chapter01/images/cover.jpg)
 
 **한국 도시 좀비 연재소설 · 1편 완결**
 
@@ -95,10 +95,11 @@
 │   ├── 짧게 두 번, 길게 한 번_1편.pdf
 │   ├── 짧게 두 번, 길게 한 번_1편.md
 │   └── images
-│       ├── 00_표지.jpg
-│       ├── 01_제1화_지하철.jpg
+│       ├── cover.jpg      (표지)
+│       ├── ch01.jpg       (제1화 삽화)
 │       ├── ...
-│       └── 15_그리고그밤.jpg
+│       ├── ch14.jpg       (제14화 삽화)
+│       └── ending.jpg     (그리고, 그 밤)
 └── Guide
     ├── 짧게 두 번, 길게 한 번_소설가이드.md
     └── 짧게 두 번, 길게 한 번_챕터이미지_프롬프트.md
@@ -110,7 +111,7 @@
 
 | | | |
 |---|---|---|
-| ![2화](Chapter01/images/02_제2화_노크.jpg) | ![10화](Chapter01/images/10_제10화_손으로하는말.jpg) | ![엔딩](Chapter01/images/15_그리고그밤.jpg) |
+| ![2화](Chapter01/images/ch02.jpg) | ![10화](Chapter01/images/ch10.jpg) | ![엔딩](Chapter01/images/ending.jpg) |
 | 2화 · 노크 | 10화 · 손으로 하는 말 | 그리고, 그 밤 |
 
 ---
