@@ -4,7 +4,7 @@
 
 > 그 소리가 들리면, 문을 열어도 된다.
 
-![표지](Chapter01/images/cover.jpg)
+![표지](cover.jpg)
 
 **한국 도시 좀비 장기 생존 연재소설 · 1부 개고 연재 중**
 
@@ -94,7 +94,7 @@
 | [STAND FAST_1부.md](<Chapter01/STAND FAST_1부.md>) | 글만 담긴 개고 원고. 깃허브에서 바로 읽을 수 있다 |
 | [STAND FAST_소설가이드.md](<Guide/STAND FAST_소설가이드.md>) | 세계관, 좀비 규칙, 요새화 규칙, 인물, 화별 개고 계획, 장기 생존 구상을 정리한 집필 가이드 |
 | [STAND FAST_이미지_프롬프트.md](<Guide/STAND FAST_이미지_프롬프트.md>) | 표지와 챕터 삽화용 이미지 프롬프트 |
-| [Chapter01/images](Chapter01/images) | 표지와 챕터 삽화 (구 원고 기준, 개고에 맞춰 교체 예정) |
+| [Chapter01/images](Chapter01/images) | 챕터 삽화 (구 원고 기준, 개고에 맞춰 교체 예정) |
 
 ### 폴더 구조
 
